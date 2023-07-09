@@ -36,3 +36,8 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favButtons {
+	background-color: yellow;
+	padding: 20px;
+}
